@@ -1,0 +1,14 @@
+C:\Users\SightSpectrum\source\repos\input & output\functions\bin\Debug\net6.0\functions.exe
+C:\Users\SightSpectrum\source\repos\input & output\functions\bin\Debug\net6.0\functions.deps.json
+C:\Users\SightSpectrum\source\repos\input & output\functions\bin\Debug\net6.0\functions.runtimeconfig.json
+C:\Users\SightSpectrum\source\repos\input & output\functions\bin\Debug\net6.0\functions.dll
+C:\Users\SightSpectrum\source\repos\input & output\functions\bin\Debug\net6.0\functions.pdb
+C:\Users\SightSpectrum\source\repos\input & output\functions\obj\Debug\net6.0\functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SightSpectrum\source\repos\input & output\functions\obj\Debug\net6.0\functions.AssemblyInfoInputs.cache
+C:\Users\SightSpectrum\source\repos\input & output\functions\obj\Debug\net6.0\functions.AssemblyInfo.cs
+C:\Users\SightSpectrum\source\repos\input & output\functions\obj\Debug\net6.0\functions.csproj.CoreCompileInputs.cache
+C:\Users\SightSpectrum\source\repos\input & output\functions\obj\Debug\net6.0\functions.dll
+C:\Users\SightSpectrum\source\repos\input & output\functions\obj\Debug\net6.0\refint\functions.dll
+C:\Users\SightSpectrum\source\repos\input & output\functions\obj\Debug\net6.0\functions.pdb
+C:\Users\SightSpectrum\source\repos\input & output\functions\obj\Debug\net6.0\functions.genruntimeconfig.cache
+C:\Users\SightSpectrum\source\repos\input & output\functions\obj\Debug\net6.0\ref\functions.dll
