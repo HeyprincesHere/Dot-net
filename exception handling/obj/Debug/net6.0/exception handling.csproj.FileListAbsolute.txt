@@ -1,0 +1,14 @@
+C:\Users\SightSpectrum\source\repos\input & output\exception handling\bin\Debug\net6.0\exception handling.exe
+C:\Users\SightSpectrum\source\repos\input & output\exception handling\bin\Debug\net6.0\exception handling.deps.json
+C:\Users\SightSpectrum\source\repos\input & output\exception handling\bin\Debug\net6.0\exception handling.runtimeconfig.json
+C:\Users\SightSpectrum\source\repos\input & output\exception handling\bin\Debug\net6.0\exception handling.dll
+C:\Users\SightSpectrum\source\repos\input & output\exception handling\bin\Debug\net6.0\exception handling.pdb
+C:\Users\SightSpectrum\source\repos\input & output\exception handling\obj\Debug\net6.0\exception handling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SightSpectrum\source\repos\input & output\exception handling\obj\Debug\net6.0\exception handling.AssemblyInfoInputs.cache
+C:\Users\SightSpectrum\source\repos\input & output\exception handling\obj\Debug\net6.0\exception handling.AssemblyInfo.cs
+C:\Users\SightSpectrum\source\repos\input & output\exception handling\obj\Debug\net6.0\exception handling.csproj.CoreCompileInputs.cache
+C:\Users\SightSpectrum\source\repos\input & output\exception handling\obj\Debug\net6.0\exception handling.dll
+C:\Users\SightSpectrum\source\repos\input & output\exception handling\obj\Debug\net6.0\refint\exception handling.dll
+C:\Users\SightSpectrum\source\repos\input & output\exception handling\obj\Debug\net6.0\exception handling.pdb
+C:\Users\SightSpectrum\source\repos\input & output\exception handling\obj\Debug\net6.0\exception handling.genruntimeconfig.cache
+C:\Users\SightSpectrum\source\repos\input & output\exception handling\obj\Debug\net6.0\ref\exception handling.dll
