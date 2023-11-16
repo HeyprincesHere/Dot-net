@@ -1,0 +1,14 @@
+C:\Users\SightSpectrum\source\repos\input & output\if statement\bin\Debug\net6.0\if statement.exe
+C:\Users\SightSpectrum\source\repos\input & output\if statement\bin\Debug\net6.0\if statement.deps.json
+C:\Users\SightSpectrum\source\repos\input & output\if statement\bin\Debug\net6.0\if statement.runtimeconfig.json
+C:\Users\SightSpectrum\source\repos\input & output\if statement\bin\Debug\net6.0\if statement.dll
+C:\Users\SightSpectrum\source\repos\input & output\if statement\bin\Debug\net6.0\if statement.pdb
+C:\Users\SightSpectrum\source\repos\input & output\if statement\obj\Debug\net6.0\if statement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SightSpectrum\source\repos\input & output\if statement\obj\Debug\net6.0\if statement.AssemblyInfoInputs.cache
+C:\Users\SightSpectrum\source\repos\input & output\if statement\obj\Debug\net6.0\if statement.AssemblyInfo.cs
+C:\Users\SightSpectrum\source\repos\input & output\if statement\obj\Debug\net6.0\if statement.csproj.CoreCompileInputs.cache
+C:\Users\SightSpectrum\source\repos\input & output\if statement\obj\Debug\net6.0\if statement.dll
+C:\Users\SightSpectrum\source\repos\input & output\if statement\obj\Debug\net6.0\refint\if statement.dll
+C:\Users\SightSpectrum\source\repos\input & output\if statement\obj\Debug\net6.0\if statement.pdb
+C:\Users\SightSpectrum\source\repos\input & output\if statement\obj\Debug\net6.0\if statement.genruntimeconfig.cache
+C:\Users\SightSpectrum\source\repos\input & output\if statement\obj\Debug\net6.0\ref\if statement.dll
