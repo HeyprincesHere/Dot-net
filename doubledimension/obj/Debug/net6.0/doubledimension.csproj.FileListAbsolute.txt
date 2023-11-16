@@ -1,0 +1,14 @@
+C:\Users\SightSpectrum\source\repos\input & output\doubledimension\bin\Debug\net6.0\doubledimension.exe
+C:\Users\SightSpectrum\source\repos\input & output\doubledimension\bin\Debug\net6.0\doubledimension.deps.json
+C:\Users\SightSpectrum\source\repos\input & output\doubledimension\bin\Debug\net6.0\doubledimension.runtimeconfig.json
+C:\Users\SightSpectrum\source\repos\input & output\doubledimension\bin\Debug\net6.0\doubledimension.dll
+C:\Users\SightSpectrum\source\repos\input & output\doubledimension\bin\Debug\net6.0\doubledimension.pdb
+C:\Users\SightSpectrum\source\repos\input & output\doubledimension\obj\Debug\net6.0\doubledimension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SightSpectrum\source\repos\input & output\doubledimension\obj\Debug\net6.0\doubledimension.AssemblyInfoInputs.cache
+C:\Users\SightSpectrum\source\repos\input & output\doubledimension\obj\Debug\net6.0\doubledimension.AssemblyInfo.cs
+C:\Users\SightSpectrum\source\repos\input & output\doubledimension\obj\Debug\net6.0\doubledimension.csproj.CoreCompileInputs.cache
+C:\Users\SightSpectrum\source\repos\input & output\doubledimension\obj\Debug\net6.0\doubledimension.dll
+C:\Users\SightSpectrum\source\repos\input & output\doubledimension\obj\Debug\net6.0\refint\doubledimension.dll
+C:\Users\SightSpectrum\source\repos\input & output\doubledimension\obj\Debug\net6.0\doubledimension.pdb
+C:\Users\SightSpectrum\source\repos\input & output\doubledimension\obj\Debug\net6.0\doubledimension.genruntimeconfig.cache
+C:\Users\SightSpectrum\source\repos\input & output\doubledimension\obj\Debug\net6.0\ref\doubledimension.dll
