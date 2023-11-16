@@ -1,0 +1,14 @@
+C:\Users\SightSpectrum\source\repos\input & output\static method\bin\Debug\net6.0\static method.exe
+C:\Users\SightSpectrum\source\repos\input & output\static method\bin\Debug\net6.0\static method.deps.json
+C:\Users\SightSpectrum\source\repos\input & output\static method\bin\Debug\net6.0\static method.runtimeconfig.json
+C:\Users\SightSpectrum\source\repos\input & output\static method\bin\Debug\net6.0\static method.dll
+C:\Users\SightSpectrum\source\repos\input & output\static method\bin\Debug\net6.0\static method.pdb
+C:\Users\SightSpectrum\source\repos\input & output\static method\obj\Debug\net6.0\static method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SightSpectrum\source\repos\input & output\static method\obj\Debug\net6.0\static method.AssemblyInfoInputs.cache
+C:\Users\SightSpectrum\source\repos\input & output\static method\obj\Debug\net6.0\static method.AssemblyInfo.cs
+C:\Users\SightSpectrum\source\repos\input & output\static method\obj\Debug\net6.0\static method.csproj.CoreCompileInputs.cache
+C:\Users\SightSpectrum\source\repos\input & output\static method\obj\Debug\net6.0\static method.dll
+C:\Users\SightSpectrum\source\repos\input & output\static method\obj\Debug\net6.0\refint\static method.dll
+C:\Users\SightSpectrum\source\repos\input & output\static method\obj\Debug\net6.0\static method.pdb
+C:\Users\SightSpectrum\source\repos\input & output\static method\obj\Debug\net6.0\static method.genruntimeconfig.cache
+C:\Users\SightSpectrum\source\repos\input & output\static method\obj\Debug\net6.0\ref\static method.dll
