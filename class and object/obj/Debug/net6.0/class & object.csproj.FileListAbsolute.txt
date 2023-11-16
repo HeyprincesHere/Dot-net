@@ -1,0 +1,14 @@
+C:\Users\SightSpectrum\source\repos\input & output\class and object\bin\Debug\net6.0\class & object.exe
+C:\Users\SightSpectrum\source\repos\input & output\class and object\bin\Debug\net6.0\class & object.deps.json
+C:\Users\SightSpectrum\source\repos\input & output\class and object\bin\Debug\net6.0\class & object.runtimeconfig.json
+C:\Users\SightSpectrum\source\repos\input & output\class and object\bin\Debug\net6.0\class & object.dll
+C:\Users\SightSpectrum\source\repos\input & output\class and object\bin\Debug\net6.0\class & object.pdb
+C:\Users\SightSpectrum\source\repos\input & output\class and object\obj\Debug\net6.0\class & object.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SightSpectrum\source\repos\input & output\class and object\obj\Debug\net6.0\class & object.AssemblyInfoInputs.cache
+C:\Users\SightSpectrum\source\repos\input & output\class and object\obj\Debug\net6.0\class & object.AssemblyInfo.cs
+C:\Users\SightSpectrum\source\repos\input & output\class and object\obj\Debug\net6.0\class & object.csproj.CoreCompileInputs.cache
+C:\Users\SightSpectrum\source\repos\input & output\class and object\obj\Debug\net6.0\class & object.dll
+C:\Users\SightSpectrum\source\repos\input & output\class and object\obj\Debug\net6.0\refint\class & object.dll
+C:\Users\SightSpectrum\source\repos\input & output\class and object\obj\Debug\net6.0\class & object.pdb
+C:\Users\SightSpectrum\source\repos\input & output\class and object\obj\Debug\net6.0\class & object.genruntimeconfig.cache
+C:\Users\SightSpectrum\source\repos\input & output\class and object\obj\Debug\net6.0\ref\class & object.dll
